@@ -2,3 +2,4 @@
 # https://wangyj.medium.com/the-solution-to-wsl-error-the-attempted-operation-is-not-supported-for-the-type-of-object-aa559854d1e3
 # https://github.com/dyingsu/nolsp?tab=readme-ov-file
 # https://silentming.net/blog/2022/10/30/install-wsl2-on-win11/
+# https://support.bluestacks.com/hc/en-us/articles/21798968119181-Solution-for-BlueStacks-not-starting-due-to-incorrect-Windows-settings?locale=en-us
