@@ -47,3 +47,6 @@ Could you please check these things and let me know:
 3. Is your hosting provider (appears to be Hetzner based on the IP) blocking any ports?
 
 This will help me provide more specific guidance to resolve the issue.
+
+
+https://github.com/RootedOne/Telegram-Api-Error?tab=readme-ov-file
