@@ -50,3 +50,10 @@ This will help me provide more specific guidance to resolve the issue.
 
 
 https://github.com/RootedOne/Telegram-Api-Error?tab=readme-ov-file
+
+
+# vps windows 10 multi account user
+
+https://v2cloud.com/blog/how-to-enable-multiple-users-to-simultaneously-use-windows-10#:~:text=The%20RDP%20Wrapper%20tool%20is,Service%2C%20allowing%20simultaneous%20remote%20sessions.
+https://github.com/stascorp/rdpwrap/releases/download/v1.6.2/RDPWrap-v1.6.2.zip
+https://github.com/sebaxakerhtc/rdpwrap.ini/blob/master/rdpwrap.ini
